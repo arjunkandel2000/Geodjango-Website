@@ -128,7 +128,7 @@ mkl-random @ file:///C:/ci/mkl_random_1618854156666/work
 mkl-service==2.3.0
 mock @ file:///tmp/build/80754af9/mock_1607622725907/work
 more-itertools @ file:///tmp/build/80754af9/more-itertools_1613676688952/work
-mpmath==1.2.1
+mpmath==1.3.0
 msgpack @ file:///C:/ci/msgpack-python_1612287368835/work
 multipledispatch==0.6.0
 munch==2.5.0
