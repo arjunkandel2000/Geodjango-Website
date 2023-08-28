@@ -58,7 +58,7 @@ decorator @ file:///tmp/build/80754af9/decorator_1617916966915/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
 distributed @ file:///C:/ci/distributed_1617384289923/work
-Django==4.0
+Django==4.1.10
 django-livereload-server==0.4
 docopt==0.6.2
 docutils @ file:///C:/ci/docutils_1617481617511/work
